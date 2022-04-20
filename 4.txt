@@ -1,1 +1,3 @@
-Adding feature 131
+Modify feature 131
+
+Added algorithm selection
