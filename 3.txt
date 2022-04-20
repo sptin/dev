@@ -1,1 +1,3 @@
 New features
+
+Modified new feature
